@@ -1,3 +1,13 @@
+/*
+File: main.cpp
+Description: This is a program to print out the lowest elevation of 7 different mountains in different countries
+Created: Friday, June 9 2023, @ 2:20 PM
+Author: Moses Avila
+mail: mosesa4035@student.vvc.edu
+*/
+
+#ifndef FOO_H
+#define FOO_H
 #include <iostream>
 #include <string>
 #include <vector>
@@ -79,3 +89,4 @@ int main() {
     return 0;
 
 }
+#endif
