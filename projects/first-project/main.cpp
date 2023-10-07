@@ -94,7 +94,6 @@ string ShortenSpace(string& usrStr) {
 
 // ---------------------------------------------------------------------------------------------------
 
-
 char PrintMenu(string usrStr) { 
     char option;
     string toFind;
